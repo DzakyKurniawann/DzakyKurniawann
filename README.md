@@ -63,23 +63,6 @@
 
 <hr>
 
-<h3 align="center">✨ Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/DzakyKurniawann/ZStore.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DzakyKurniawann&repo=ZStore&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/DzakyKurniawann/kabinet-bjorka.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DzakyKurniawann&repo=kabinet-bjorka&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DzakyKurniawann/javascript-roadmap-projects.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DzakyKurniawann&repo=javascript-roadmap-projects&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 <hr>
 
 <h3 align="center">📬 Connect</h3>
