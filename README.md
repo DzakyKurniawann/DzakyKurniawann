@@ -90,15 +90,6 @@ Right now I'm digging into cleaner architecture and scalable patterns, mostly by
 </td>
 <td width="33%" valign="top">
 
-**[kabinet-bjorka](https://github.com/DzakyKurniawann/kabinet-bjorka)**
-<br/>
-<sub>Information website for HIMA Informatika Unsoed.</sub>
-<br/><br/>
-<sub><code>JavaScript</code></sub>
-
-</td>
-<td width="33%" valign="top">
-
 **[javascript-roadmap-projects](https://github.com/DzakyKurniawann/javascript-roadmap-projects)**
 <br/>
 <sub>Practice projects from my JavaScript learning path.</sub>
