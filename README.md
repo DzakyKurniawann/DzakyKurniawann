@@ -45,9 +45,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DzakyKurniawann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DzakyKurniawann&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 <hr>
@@ -80,9 +77,6 @@
 <p align="center">
   <a href="https://github.com/DzakyKurniawann/javascript-roadmap-projects.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DzakyKurniawann&repo=javascript-roadmap-projects&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/DzakyKurniawann/project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DzakyKurniawann&repo=project-4&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
